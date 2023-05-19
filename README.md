@@ -4,7 +4,7 @@ A LaTeX slideshow template based on [OsloMet](https://github.com/martinhelso/Osl
 
 ![preview.png](./preview.png)
 
-Contains as slightly less bloated OsloMet Template
+Contains a slightly less bloated OsloMet Template
 
 ## Usage
 
